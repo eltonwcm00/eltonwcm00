@@ -2,8 +2,8 @@
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltonwcm00)](https://github.com/anuraghazra/github-readme-stats)
+![elton's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltonwcm00&count_private=true)<br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eltonwcm00&show_icons=true)  
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=eltonwcm00&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=eltonwcm00)  
+<!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=eltonwcm00)
